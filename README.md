@@ -12,4 +12,5 @@ The Online Job Search is a Java Dynamic Web Project created using JavaServer Pag
 3. Manage job posting
 ## Technologies and Programming language
 •Front-End: JSP, CSS & Bootstrap
+
 •Back-End: Java, MySQL, Tomcat server
