@@ -6,4 +6,10 @@ The Online Job Search is a Java Dynamic Web Project created using JavaServer Pag
 2. Extract all files within the zip file.
 3. Configure the tomcat server 
 4. Double-click to launch the website.
-
+## Features
+1. Search for new job
+2. Create job posting
+3. Manage job posting
+## Technologies and Programming language
+•Front-End: JSP, CSS & Bootstrap
+•Back-End: Java, MySQL, Tomcat server
