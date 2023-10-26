@@ -14,5 +14,5 @@ The "Online Job Search Platform" is a dynamic web application developed using Ja
 3. Manage job posting
    
 ## Technologies and Programming language
-•Front-End: JSP, CSS & Bootstrap
-•Back-End: Java, MySQL, Tomcat server
+1. Front-End: JSP, CSS & Bootstrap
+2. Back-End: Java, MySQL, Tomcat server
